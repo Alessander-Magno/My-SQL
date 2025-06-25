@@ -1,0 +1,2 @@
+# Força o GitHub a reconhecer arquivos .sql como linguagem SQL
+*.sql linguist-language=SQL
