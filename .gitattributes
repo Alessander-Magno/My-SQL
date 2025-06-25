@@ -1,2 +1,2 @@
-# Força o GitHub a reconhecer arquivos .sql como linguagem SQL
+#Força o GitHub a reconhecer arquivos .sql como linguagem SQL (sim, o gpt está me ajudando para fazer com que o SQL seja reconhecido como linguagem principal)
 *.sql linguist-language=SQL
